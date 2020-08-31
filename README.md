@@ -22,7 +22,7 @@
 </p>
 
 ## :bookmark_tabs: Resume of application
-
+Under development.
 
 ## :mag_right: Getting Started
 

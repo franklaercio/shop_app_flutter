@@ -7,17 +7,17 @@
     <img alt="Made by franklaercio" src="https://img.shields.io/badge/Linkedin-Made%20by%20franklaercio-blue">
   </a>
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklaercio/hero-crud-flutter?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklaercio/shop_app_flutter?color=%2304D361">
   
-  <a href="https://github.com/franklaercio/hero-crud-flutter/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklaercio/hero-crud-flutter">
+  <a href="https://github.com/franklaercio/shop_app_flutter/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklaercio/shop_app_flutter">
   </a>
   
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/franklaercio/hero-crud-flutter">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/franklaercio/shop_app_flutter">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/franklaercio/hero-crud-flutter/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/franklaercio/hero-crud-flutter?style=social">
+   <a href="https://github.com/franklaercio/shop_app_flutter/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/franklaercio/shop_app_flutter?style=social">
   </a>
 </p>
 
@@ -34,13 +34,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## :chart_with_upwards_trend: Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
+For the versions available, see the [tags on this repository](https://github.com/franklaercio/shop_app_flutter/tags). 
 
 ## :man_technologist: Authors
 
 * **Frank Laércio** - [franklaercio](https://github.com/franklaercio)
 
-See also the list of [contributors](https://github.com/franklaercio/Ecoleta/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/franklaercio/shop_app_flutter/contributors) who participated in this project.
 
 ## :clipboard: License
 

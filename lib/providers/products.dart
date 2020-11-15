@@ -67,9 +67,9 @@ class Products with ChangeNotifier {
   //   notifyListeners();
   // }
 
-  void addProduct(Product product) {
-    const url = 'PUT YOUR FIREBASE CONNECTION';
-    http
+  Future<void> addProduct(Product product) {
+    const url = 'PUT YOUR FIREBASE CONNECTION HERE';
+    return http
         .post(
       url,
       body: json.encode({

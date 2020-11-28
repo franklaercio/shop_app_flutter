@@ -24,30 +24,3 @@
 ## :bookmark_tabs: Resume of application
 Under development.
 
-## :mag_right: Getting Started
-
-Under development
-
-## :family: Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## :chart_with_upwards_trend: Versioning
-
-For the versions available, see the [tags on this repository](https://github.com/franklaercio/shop_app_flutter/tags). 
-
-## :man_technologist: Authors
-
-* **Frank Laércio** - [franklaercio](https://github.com/franklaercio)
-
-See also the list of [contributors](https://github.com/franklaercio/shop_app_flutter/contributors) who participated in this project.
-
-## :clipboard: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## :newspaper: Acknowledgments
-
-- React
-- React Native
-- Node.js
